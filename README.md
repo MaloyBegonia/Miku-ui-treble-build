@@ -72,7 +72,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags --optimiz
 Set your maintainer name 
 [Maintainer-name](https://github.com/MaloyBegonia/device_phh_treble_beta/blob/test/miku.mk#L10)
 
-### Buid vanilla variant
+### Build vanilla variant
 ```
 rm -rf vendor/gapps
 ```
